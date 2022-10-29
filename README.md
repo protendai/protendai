@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I have recently reached 100 repos and im happy about it. Well they are private so you might not see them.
 
 - 🔭 I’m currently working on an app which i believe will be of great impact in Zimbabwe
 - 🌱 I’m currently learning Flutter , Angluar and .NetCore 6
