@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I studied Arts Subjects , Commercial Subjects and Science Subjects
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=protendai &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=protendai&theme=radical)
