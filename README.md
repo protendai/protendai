@@ -9,3 +9,5 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=protendai&theme=prussian&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protendai)](https://github.com/protendai/github-readme-stats)
