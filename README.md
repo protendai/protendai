@@ -7,6 +7,6 @@
 - 📫 How to reach me: me@tendaikaruma.com
 - ⚡ Fun fact: I studied Arts Subjects , Commercial Subjects and Science Subjects
 
-[![Tendai's GitHub stats](https://github-readme-stats.vercel.app/api?username=protendai&theme=prussian&count_private=true)](https://github.com/protendai/github-readme-stats)
+[![Tendai's GitHub stats](https://github-readme-stats.vercel.app/api?username=protendai&theme=prussian&count_private=true&show_icons=true)](https://github.com/protendai/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protendai)](https://github.com/protendai/github-readme-stats)
