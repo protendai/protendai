@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### I have recently reached 100 repos and im happy about it. Well they are private so you might not see them.
+#### Welcome to my GitHub. I still need help understanding SOLID principles , Cloud Services and AI
 
-- 🔭 I’m currently working on an app which i believe will be of great impact in Zimbabwe
+- 🔭 I’m currently working on a grower management system
 - 🌱 I’m currently learning Flutter , Angluar and .NetCore 6
 - 👯 I’m looking to collaborate on open source PHP,Laravel projects
 - 🤔 I’m looking for help with mastering Flutter
