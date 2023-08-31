@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### Welcome to my GitHub. I still need help understanding SOLID principles , Cloud Services and AI
+#### Welcome to my GitHub.
 
-- 🔭 I’m currently working on a grower management system
+- 🔭 I’m currently working on a tuckshop manager system
 - 🌱 I’m currently learning Flutter , Angluar and .NetCore 6
 - 👯 I’m looking to collaborate on open source PHP,Laravel projects
 - 🤔 I’m looking for help with mastering Flutter
