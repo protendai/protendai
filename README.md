@@ -2,7 +2,7 @@
 #### Welcome to my GitHub.
 
 - 🔭 I’m currently working on a tuckshop manager system
-- 🌱 I’m currently learning Flutter , Angluar and .NetCore 6
+- 🌱 I’m currently learning React and deepening my knowledge in Php and Laravel
 - 👯 I’m looking to collaborate on open source PHP,Laravel projects
 - 🤔 I’m looking for help with mastering Flutter
 - 📫 How to reach me: protendai@gmail.com
