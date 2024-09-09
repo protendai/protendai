@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Welcome to my GitHub.
 
-- 🔭 I’m currently working on a tuckshop manager system
+- 🔭 I’m currently doing nothing but looking for work so that i can survive
 - 🌱 I’m currently learning React and deepening my knowledge in Php and Laravel
 - 👯 I’m looking to collaborate on open source PHP,Laravel projects
 - 🤔 I’m looking for help with mastering Flutter
