@@ -2,7 +2,7 @@
 #### Welcome to my GitHub.
 
 - 🔭 I’m currently doing nothing but looking for work so that i can survive
-- 🌱 I’m currently learning React and deepening my knowledge in Php and Laravel
+- 🌱 I’m currently learning Flutter and updating my knowledge in Php and Laravel
 - 👯 I’m looking to collaborate on open source PHP,Laravel projects
 - 🤔 I’m looking for help with mastering Flutter
 - 📫 How to reach me: hello@tendaikaruma.com
